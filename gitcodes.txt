@@ -1,0 +1,12 @@
+gitcodes
+
+git init -- ilk kez proje oluştururken kullandik
+git add  <file> 
+git add . (all)
+git commit -m 'aciklama'
+git status -- dosya durumu
+git diff -- dosyalarda yapılan degişiklik
+git checkout brancName
+git push -- uzak sunucuya gonderir
+git pull -- uzak sunucudan veri alır
+git clone -- uzak sunucudan repo clonelar
